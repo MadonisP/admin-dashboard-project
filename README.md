@@ -1,1 +1,1 @@
-admin board with react 
+admin dashboard with react
